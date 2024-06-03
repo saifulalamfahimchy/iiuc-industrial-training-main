@@ -29,7 +29,7 @@ y = "Hello, Python learners!"
 # Assignment 1: Create two variables, one holding a number and the other holding your name. Then print both.
 # Write your code below:
 age = 24
-name = "khaled Eabne Delowar"
+name = "Saiful Alam Fahim"
 
 
 print("Age: ", age, end="; \n")
@@ -75,9 +75,9 @@ _bad_name = 23
 # Assignment 3: Fix the bad variable name above and create three more variables with good naming practices.
 # Write your code below:
 age = 23
-first_name = "Rafid"
-middle_name = "Ashraf"
-last_name = "Chowduri"
+first_name = "Saiful"
+middle_name = "Alam"
+last_name = "Fahim"
 gender = "male"
 
 

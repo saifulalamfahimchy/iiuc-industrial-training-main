@@ -63,8 +63,8 @@ dict_copy = simple_dict.copy()  # Creates a shallow copy of the dictionary
 # Perform various operations like adding, removing, and modifying elements.
 # Write your code below:
 student_info = {
-    "name": "Rafid",
-    "roll_number": "C193034",
+    "name": "Fahim",
+    "roll_number": "C193022",
     "Semester": "1st",
     "grades": {
         "Math-1": 85,
@@ -109,8 +109,8 @@ coordinates_info = {(35.6895, 139.6917): "Tokyo", (40.7128, -74.0060): "New York
 # Assignment 2: Create a dictionary where keys are student names and values are lists of grades. Calculate the average grade for each student.
 # Write your code below:
 student_grades = {
-    "khaled": [85, 90, 92],
-    "Delowar": [72, 68, 75],
+    "Saiful": [85, 90, 92],
+    "Alam": [72, 68, 75],
     "Borhan": [90, 85, 88],
     "Rafid": [78, 80, 82]
 }
